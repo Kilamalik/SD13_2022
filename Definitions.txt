@@ -1,0 +1,7 @@
+1. connect takes in two parameters - first param as any state you want to map and second param is object with actions you want to use
+
+2. import connect to connect this component to redux. Use when you want the component to call an action or get a state
+
+3. formData is the object that holds our values and setFormData is the function to change the values
+
+4. setTimeout is a JS function
